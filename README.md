@@ -9,7 +9,7 @@ https://github.com/codewithjaspreet/ecommerce-viz/assets/85099922/42bfe82a-a086-
 
 - **Years to Date Sales**: The total monetary value generated from sales transactions.
 - **Years to Date Profit**: The total profit earned within the current year.
-- **Years to Date Profit Margin**: The percentage of profit earned from sales within the current year.
+- **Years to Date Quantity**: The total quantity sold within the current year.
  - **Years to Date Profit Margin**: The percentage of profit earned from sales within the current year.
 
 
